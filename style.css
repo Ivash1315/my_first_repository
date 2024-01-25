@@ -1,0 +1,28 @@
+*
+ {  
+  box-sizing :border-box;
+  margin: 0;
+  padding :0;
+ font-family: 'Times New Roman', Times, serif;
+
+}
+ 
+nav {
+    height: 800;
+    background: blue;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    padding: auto;
+
+}
+.logo
+{
+  color: brown;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0 2rem;
+  
+
+
