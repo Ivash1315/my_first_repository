@@ -1,4 +1,4 @@
-*
+/* *
  {  
   box-sizing :border-box;
   margin: 0;
@@ -24,5 +24,76 @@ nav {
   font-style: italic;
   padding: 0 2rem;
   
+
+} */
+
+
+  nav {
+
+}
+
+body {
+  background-color: #efeee7;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #3333339f;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  align-content: center;
+  background-color: #333333;
+  font-weight: lighter;
+}
+#contact-info
+
+#contact info {
+  text-align: right;
+}
+
+
+h1 {
+  font-size: 28px;
+  color: #eee;
+  text-align: center;
+  font-style: normal;
+
+}
+#container {
+  width: 1024px;
+  margin: 0;
+
+}
+
+#main-bio {
+  width: 70%;
+  float: left;
+}
+#bio-image {
+  width: 200px;
+  float: left;
+}
+#contact-info {
+  width: 30%;
+  float: left;
+}
+#bio-image {
+  float: left;
+  width: 200;
+}
+
+  h2 {
+  text-align: left;
+  font-size: 24px;
+
+  }
+
+  a {
+    color: #d21034;
+  }
+
 
 
